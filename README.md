@@ -1,7 +1,7 @@
 # HealthcareIoT-Basic
 The device simulator will publish Heart Rate, SpO2 (Oxygen Saturation) and Body Temperature values periodically. This is channeled to the cloud (Iot Core → DynamoDB), and then we aggregate data and detect anomalies. The device simulator code can push data to an IoT core endpoint.
 
-![image](https://user-images.githubusercontent.com/45310865/135243849-182719ad-964a-46ca-800d-3f665c75a388.png)
+![image](https://user-images.githubusercontent.com/45310865/135245132-d8c24e4f-885e-43d7-a907-18d4f75e6bc2.png)
 
 Problem Statement.  
   There are three top-level tasks in this project as listed below:
